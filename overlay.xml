@@ -8,6 +8,6 @@
 		<owner>
 			<email>robin@celp.nl</email>
 		</owner>
-		<source type="git">https://github.com/robindv/robindv-layman</source>
+		<source type="git">https://github.com/robindv/robindv-layman.git</source>
 	</repo>
 </repositories>
